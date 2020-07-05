@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  checkKnight
+
+  Created by Teodoro Gomes on 4/7/20.
+  Copyright © 2020 Teodoro Gomes. All rights reserved.
+*/
+
+//ViewController
+"mainHelpTitle" = "Welcome";
+"mainHelpMessage" = "Touch one square to place the knight and drag it to the target square";
+"attentionTitle" = "Attention";
+"noMorePathsText" = "No more paths";
+
+//SettingsViewController
+"notValidSquaresError" = "Number of squares not valid";
+"notValidMaxMovesError" = "Number of max moves not valid";

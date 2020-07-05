@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Number of moves:"; ObjectID = "7Iz-Tp-dwm"; */
+"7Iz-Tp-dwm.text" = "Μέγ. Αριθμός κινήσεων:";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Nwg-yB-Vgc"; */
+"Nwg-yB-Vgc.normalTitle" = "Αποθήκευση";
+
+/* Class = "UILabel"; text = "Number of squares:"; ObjectID = "QTw-d1-v3A"; */
+"QTw-d1-v3A.text" = "Αριθμός τετραγώνων:";
+
+/* Class = "UINavigationItem"; title = "Knight"; ObjectID = "UD7-Qs-WMN"; */
+"UD7-Qs-WMN.title" = "Αλογάκι";
+
+/* Class = "UIButton"; normalTitle = "Next Path"; ObjectID = "isI-q6-MTE"; */
+"isI-q6-MTE.normalTitle" = "Επόμενο μονοπάτι";
+
+/* Class = "UILabel"; text = "Show Numbers:"; ObjectID = "8la-dX-f4e"; */
+"8la-dX-f4e.text" = "Εμφάνιση αριθμών:";
+
+/* Class = "UILabel"; text = "Color squares:"; ObjectID = "dxT-TH-edK"; */
+"dxT-TH-edK.text" = "Χρωματισμός τετραγώνων:";
+
+/* Class = "UILabel"; text = "Show lines:"; ObjectID = "z7Y-nW-f8f"; */
+"z7Y-nW-f8f.text" = "Εμφάνιση γραμμών:";

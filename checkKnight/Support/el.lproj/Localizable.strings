@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  checkKnight
+
+  Created by Teodoro Gomes on 4/7/20.
+  Copyright © 2020 Teodoro Gomes. All rights reserved.
+*/
+
+//ViewController
+"mainHelpTitle" = "Καλωσήρθες";
+"mainHelpMessage" = "Πατήστε το τετράγωνο για να τοποθετήσετε το αλογάκι και σύρετε το στο επιθυμητό τετράγωνο-στόχο";
+"attentionTitle" = "Προσοχή";
+"noMorePathsText" = "Δεν υπάρχουν άλλα μονοπάτια";
+
+//SettingsViewController
+"notValidSquaresError" = "Μη έγκυρος αριθμός τετραγώνων";
+"notValidMaxMovesError" = "Μη έγκυρος αριθμός μέγιστων κινήσεων";
